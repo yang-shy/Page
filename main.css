@@ -47,16 +47,16 @@ a{
     margin-right: auto;
 }
 .link-h{
-    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url('../img/kmu1.jpg') no-repeat ;
+    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url('kmu1.jpg') no-repeat ;
     background-size: cover;
 }
 
 .link-k{
-    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url('../img/kmu2.jpg') no-repeat ;
+    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url('kmu2.jpg') no-repeat ;
     background-size: cover;
 }
 .link-s{
-    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url('../img/kmu3.jpg') no-repeat ;
+    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url('kmu3.jpg') no-repeat ;
     background-size: cover;
 }
 .link-k a,.link-h a,.link-s a{
