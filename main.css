@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding:0;
+}
+  
+header{
+    width: 100%;
+    background-color: white;
+    
+}
+body{
+    background-color: rgb(199, 212, 233);
+}
+ul{  
+    list-style: none;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    width: 1250px;
+}
+nav li{
+    margin-right: 100px;
+}
+
+main ul{
+    float: left;
+    margin: 40px;
+}
+main li{
+    display: flex;
+    color: black;
+    width: 700px;
+    height: 250px;
+    margin-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.logo{
+    margin-left: 4em;
+    margin-right: auto;
+}
+.link-h{
+    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url('kmu1.jpg') no-repeat ;
+    background-size: cover;
+}
+
+.link-k{
+    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url('kmu2.jpg') no-repeat ;
+    background-size: cover;
+}
+.link-s{
+    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url('kmu3.jpg') no-repeat ;
+    background-size: cover;
+}
+.link-k a,.link-h a,.link-s a{
+    color: white;
+    font-size: large;
+}
+aside{
+    margin: 40px;
+    position: absolute;
+    top: 100px;
+    left: 740px;
+    text-align: center;
+}
+p{
+    margin-bottom: 80px;
+    font-size: 16px;
+}
+.kmu-s, .kmu-d{
+    border-radius: 10px;
+}
